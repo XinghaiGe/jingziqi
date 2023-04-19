@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 
-//╡Бйт╬╝вжфЕсно╥
+//╡БйтнЕвсфЕсно╥
 
 #include "game.h"
 
